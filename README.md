@@ -82,12 +82,3 @@
 
 #### Documentation: 
 * [Starting your first discussion on GitHub](https://mlh.link/ghwbeginner25-github-discussions)
-
-## Challenge 8
-### Build your first GitHub Action
-#### Objectives: 
-* Build your first GitHub Actions workflow by completing the GitHub Actions Essentials Learning Path.
-* Share a screenshot of your first GitHub Action on our [submission form](https://mlh.link/ghwform)! 
-
-#### Documentation: 
-* [Building your first GitHub Action](https://mlh.link/ghwbeginner25-github-automatedapplications)
