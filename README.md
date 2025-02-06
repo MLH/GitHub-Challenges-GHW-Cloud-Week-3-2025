@@ -1,4 +1,4 @@
-# Welcome to the GitHub GHW: Beginners Week Challenge Page!
+# Welcome to the GitHub GHW: AI/ML Week Challenge Page!
 
 ## Getting Help 
 
@@ -9,7 +9,7 @@
 
 ## Registration Challenge
 ### Signup for the GitHub Student Developer Pack
-* Sign up for the [GitHub Student Developer Pack](https://mlh.link/ghwbeginner25-github) to access GitHub Copilot and dozens of other amazing benefits. 
+* Sign up for the [GitHub Student Developer Pack](https://mlh.link/ghwaiml225-github-sdp) to access GitHub Copilot and dozens of other amazing benefits. 
 
 
 ## Challenge 1
@@ -20,7 +20,7 @@
 * Share a screenshot of your completion screen on our [submission form](https://mlh.link/ghwform)! 
 
 #### Documentation: 
-* [GitHub Copilot Primer Quick Start Guide](https://mlh.link/ghwbeginner25-github-copilot)
+* [GitHub Copilot Primer Quick Start Guide](https://mlh.link/ghwaiml225-github-copilot)
 
 ## Challenge 2 
 ### Use GitHub Copilot to complete any of this week's challenges
@@ -30,55 +30,29 @@
 * Share your builds in a GitHub Discussion and add your project to our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 #### Documentation: 
-* [Getting Started with GitHub Copilot](https://mlh.link/ghwbeginner25-github-copilot-getstarted)
+* [Getting Started with GitHub Copilot](https://mlh.link/ghwaiml225-github-copilot-getstarted)
 
 ## Challenge 3 
-### Find and follow Open Source Projects
+### Use GitHub Copilot to Build a Simple Application
+
 #### Objectives: 
-* Lists are a great way to keep all of your favorite GitHub Open Source projects organized.
-* Go to or create a GitHub account.
-* Find topics and projects that are interesting to you using the Explore button.
-* Star 5 open source projects so that you can follow along and learn from its contributors.
+* GitHub Copilot prompts can be useful in generating code for specific use cases. 
+* Try having Copilot build you a simple application like a template portfolio website, or command line "choose your own adventure" game in the language of your choice to get a feel for using an AI Coding Assistant. 
 * Share a screenshot of your list on our [submission form](https://mlh.link/ghwform)! 
 
-#### Documentation:
-* [Making your first list on GitHub](https://mlh.link/ghwbeginner25-github-lists)
-
 ## Challenge 4 
-### Get an intro to Open Source
+### Get GitHub Copilot to Explain Someone Else's Code to you! 
 #### Objectives: 
-* Complete the Intro to Open Source course by OpenSauced to begin your journey in collaborative development.
+* Did you know that GitHub Copilot can explain any block of code for you?
+* Maybe you've come across a code base in a programming language you've never used; try using the GitHub Copilot chat feature to explain what the code does or even translate it into a programming language you're more familiar with.
+* Use the GitHub Copilot chatbot or slash commands to translate or explain someone else's code base.
 * Share a screenshot of your completion screen on our [submission form](https://mlh.link/ghwform)! 
 
-#### Documentation:
-* [Intro to Open Source by OpenSauced](https://mlh.link/ghwbeginner25-github-opensauced)
-
 ## Challenge 5
-### Make your first No code/Low code open source contribution
+### Streamline the Documentation Process with GitHub Copilot
 #### Objectives: 
-* Find a typo or deadlink in an OS project from Good First Issues, open a Pull Request to get it updated.
-* Share a link of your pull request on our [submission form](https://mlh.link/ghwform)! 
+* Documenting your code can be tedious but important work for any programmer.
+* GitHub Copilot can help you streamline the process by creating the documentation for you!
+* Use GitHub Copilot to comment out your code so anyone reading it can understand or take it a step further and have GitHub Copilot write a ReadMe for your entire project!
 
-#### Documentation: 
-* [GitHub Good First Issue Repo List](https://mlh.link/ghwbeginner25-github-forgoodfirstissue)
-
-## Challenge 6
-### Contribute to Open Source by submitting an issue
-#### Objectives: 
-* GitHub Issues are items you can create in a repository to plan, discuss and track work.
-* Go to GitHub’s Good First Issues, select a project, review their contribution guide and submit your first issue!
-* Share a link of your issue on our [submission form](https://mlh.link/ghwform)! 
-
-#### Documentation: 
-* [GitHub Good First Issue Repo List](https://mlh.link/ghwbeginner25-github-forgoodfirstissue)
-
-## Challenge 7
-### Start or answer a Discussion 
-#### Objectives: 
-* GitHub Discussions is a collaborative communication forum for the community around an open source or internal project.
-* Community members can ask and answer questions, share updates, have open-ended conversations, and follow along on decisions affecting the community's way of working.
-* Start your own Open Source discussion or contribute to an existing one! 
-* Share a link of your Open Source discussion on our [submission form](https://mlh.link/ghwform)! 
-
-#### Documentation: 
-* [Starting your first discussion on GitHub](https://mlh.link/ghwbeginner25-github-discussions)
+* Share a screenshot of your Copilot generated documentation on our [submission form](https://mlh.link/ghwform)! 
