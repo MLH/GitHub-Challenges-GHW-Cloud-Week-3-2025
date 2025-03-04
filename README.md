@@ -1,4 +1,4 @@
-# Welcome to the GitHub GHW: AI/ML Week Challenge Page!
+# Welcome to the GitHub GHW: Cloud Week 3-2025 Challenge Page!
 
 ## Getting Help 
 
@@ -9,7 +9,7 @@
 
 ## Registration Challenge
 ### Signup for the GitHub Student Developer Pack
-* Sign up for the [GitHub Student Developer Pack](https://mlh.link/ghwaiml225-github-sdp) to access GitHub Copilot and dozens of other amazing benefits. 
+* Sign up for the [GitHub Student Developer Pack](https://mlh.link/ghwcloud325-github-sdp) to access GitHub Copilot and dozens of other amazing benefits. 
 
 
 ## Challenge 1
@@ -20,7 +20,7 @@
 * Share a screenshot of your completion screen on our [submission form](https://mlh.link/ghwform)! 
 
 #### Documentation: 
-* [GitHub Copilot Primer Quick Start Guide](https://mlh.link/ghwaiml225-github-copilot)
+* [GitHub Copilot Primer Quick Start Guide](https://mlh.link/ghwcloud325-github-copilot)
 
 ## Challenge 2 
 ### Use GitHub Copilot to complete any of this week's challenges
@@ -30,7 +30,7 @@
 * Share your builds in a GitHub Discussion and add your project to our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 #### Documentation: 
-* [Getting Started with GitHub Copilot](https://mlh.link/ghwaiml225-github-copilot-getstarted)
+* [Getting Started with GitHub Copilot](https://mlh.link/ghwcloud325-github-copilot-getstarted)
 
 ## Challenge 3 
 ### Use GitHub Copilot to Build a Simple Application
