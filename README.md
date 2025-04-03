@@ -13,10 +13,10 @@
 
 
 ## Challenge 1
-### Complete the GitHub Copilot Primer 
+### Complete the GitHub Code Spaces Primer 
 
 #### Objectives: 
-* Wondering how to get started with Codespaces? This Primer makes it easy by giving you the templates, videos and step-by-step resources you need to get you started running, testing, debugging and pushing code using this instant cloud developer environment.
+* Wondering how to get started with GitHub Code Spaces? This Primer makes it easy by giving you the templates, videos and step-by-step resources you need to get you started running, testing, debugging and pushing code using this instant cloud developer environment.
 * Share a screenshot of your completion screen on our [submission form](https://mlh.link/ghwform)! 
 
 #### Documentation: 
@@ -38,7 +38,7 @@
 #### Objectives: 
 * GitHub Copilot prompts can be useful in generating code for specific use cases. 
 * Try having Copilot build you a simple application like a template portfolio website, or command line "choose your own adventure" game in the language of your choice to get a feel for using an AI Coding Assistant. 
-* Share a screenshot of your list on our [submission form](https://mlh.link/ghwform)! 
+* Share a screenshot of your project on our [submission form](https://mlh.link/ghwform)! 
 
 ## Challenge 4 
 ### Get GitHub Copilot to Explain Someone Else's Code to you! 
@@ -46,7 +46,7 @@
 * Did you know that GitHub Copilot can explain any block of code for you?
 * Maybe you've come across a code base in a programming language you've never used; try using the GitHub Copilot chat feature to explain what the code does or even translate it into a programming language you're more familiar with.
 * Use the GitHub Copilot chatbot or slash commands to translate or explain someone else's code base.
-* Share a screenshot of your completion screen on our [submission form](https://mlh.link/ghwform)! 
+* Share a screenshot of your Copilot generated explanation on our [submission form](https://mlh.link/ghwform)! 
 
 ## Challenge 5
 ### Streamline the Documentation Process with GitHub Copilot
